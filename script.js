@@ -16,3 +16,6 @@ function longerString(string1, string2) {
 
   // bug: what if they are the same length?
 }
+
+var string1 = prompt("Name a fruit");
+var string2 = prompt("Name another fruit");
